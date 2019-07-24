@@ -784,7 +784,6 @@ callee 是返回正在被执行的function函数，也就是所指定的function
 
 > 区别在于 call 的第二个参数可以是任意类型，而apply的第二个参数必须是数组，也可以是arguments。传null/undefined 返回值为window
 
-![avatar](callee.png)
 
 <h5 id='j29'>29、单线程原理的过程?</h5>
 
