@@ -1,0 +1,25 @@
+{
+  "name": "sugarBlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "pub":"bash deploy.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaishuangshuang/sugarBlog.git"
+  },
+  "author": "ZSS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaishuangshuang/sugarBlog/issues"
+  },
+  "homepage": "https://github.com/zhaishuangshuang/sugarBlog#readme",
+  "dependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
