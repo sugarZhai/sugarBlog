@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://zhaishuangshuang.github.io/images/company-2.png
+heroImage: https://zhaishuangshuang.github.io/images/blog/airball.jpeg
 actionText: Discovery →
 actionLink: /Code/basic
 features:
@@ -10,5 +10,5 @@ features:
     details:
   - title:
     details:
-footer: MIT Licensed | Copyright © 2017-present sugarZhai
+footer: MIT Licensed | Copyright © 2019-present sugarZhai
 ---
