@@ -27,6 +27,7 @@ module.exports={
         ['/Life/talent','隐形天赋'],
         ['/Life/time','生命来来往往，来日并不方长'],
         ['/Life/dinner','指缝太宽，时光太瘦'],
+        ['/Life/goodness','行善需要一点智慧'],
       ],
      
     }
