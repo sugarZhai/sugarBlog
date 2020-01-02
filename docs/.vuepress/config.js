@@ -1,6 +1,6 @@
 module.exports={
   title: 'sugarZhai',
-  description: 'share 、learn 、grow ',
+  description: '星河滚烫、你是人间理想',
   base: '/sugarBlog/',
   themeConfig: {
     nav: [
