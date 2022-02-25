@@ -5,7 +5,7 @@ module.exports={
   themeConfig: {
     nav: [
       { text: '编程指南', link: '/Code/basic' },
-      { text: '产品初探', link: '/Product/thinking' },
+      { text: '学习思考', link: '/Product/thinking' },
       { text: '生活随笔', link: '/Life/qianxun' },
       { text: '关于作者', link: '/About/' },
     ],
@@ -16,7 +16,8 @@ module.exports={
         ['/Code/community','社区门户'],
         ['/Code/interview','面试笔记'],
       ],
-      '/Product/':[
+        '/Product/': [
+        ['/Product/moneyFree','一个程序员的财务独立之路'],
         ['/Product/thinking','职业思考'],
         ['/Product/english','英语学习APP体验分享'],
         ['/Product/viewpoint','产品观'],
